@@ -15,7 +15,7 @@ namespace Shoppin.Client.Controllers
         }
 
         /// <summary>
-        /// 
+        /// cambios
         /// </summary>
         /// <returns></returns>
         public IActionResult Index()
