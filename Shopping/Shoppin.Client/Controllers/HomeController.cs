@@ -14,10 +14,13 @@ namespace Shoppin.Client.Controllers
             _logger = logger;
         }
 
+<<<<<<< HEAD
         /// <summary>
         /// cambios
         /// </summary>
         /// <returns></returns>
+=======
+>>>>>>> 7404619f9009a59f17e951ac03c610e2ea571c57
         public IActionResult Index()
         {
             return View(ProductContext.Products);
